@@ -1,0 +1,36 @@
+
+
+.main-header{
+    background-color: #f9e2c8;
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    padding: 15px 30px;
+    align-items:center;
+    border-bottom: 5px solid #e4b48c;
+}
+
+.logo{
+    width: 80px;
+    height: auto;
+}
+
+h1 .main-header{
+    font-size: 24;
+    margin: 0;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.navbar{
+    display: flex;
+    background-color: #f9e2c8;
+    border-bottom: 5px solid #e4b48c;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
