@@ -207,3 +207,54 @@ body{
 .remove-button:hover{
     cursor: pointer;
 }
+
+
+.customize-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1100px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner-img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.summary-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1100px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.order-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #fff8ee;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.summary-actions {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.order-table th, .order-table td {
+    border: 1px solid black;
+    padding: 10px 15px;
+    text-align: left;
+}
+
+
+
+
+
